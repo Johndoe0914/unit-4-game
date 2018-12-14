@@ -1,0 +1,63 @@
+#Pagetitle{
+    position: relative;
+    width: 20px;
+    height: 100px;
+    background-color: green;
+    left: 40px;
+    top: 20px;
+    text-align: center;
+}
+#Rules{
+    position: relative;
+    width: 70px;
+    height: 270px;
+    background-color: crimson;
+    left: 40px;
+    font-size: medium;
+    font-weight: bold;
+}
+#randomnumber{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 40px;
+    background-color: mediumseagreen;
+    text-align: center;
+    top: 10px;
+}
+#score{
+    position: relative;
+    width: 50px;
+    height: 100px;
+    top: 10px;
+    background-color: orange;
+}
+#button1{
+    position: relative;
+    left: 20px;
+}
+#button2{
+    position: relative;
+    left: 20px;
+}
+#button3{
+    position: relative;
+    left:20px; 
+}
+#button4{
+    position: relative;
+    left: 20px;
+}
+#something1{
+    position: relative;
+    width: 20px;
+    height: 40px;
+    background-color: lightseagreen;
+}
+#totalscore{
+    position: relative;
+    width: 20px;
+    height: 40px;
+    background-color: lightseagreen;
+    top: 10px;
+}
